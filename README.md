@@ -6,7 +6,7 @@
 
 GitHub 存储库 [https://github.com/Zsfan1224/Cloudflare-Pages-Proxy](https://github.com/Zsfan1224/Cloudflare-Pages-Proxy)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/Zsfan1224/Cloudflare-Pages-Proxy)
 
 ## 变量解释
 
@@ -21,16 +21,6 @@ GitHub 存储库 [https://github.com/Zsfan1224/Cloudflare-Pages-Proxy](https://g
 | dns           | Branch for DNS alternative related development                |
 | main          | Main branch for the project                                   |
 | pages         | New version for deployment on Cloudflare Pages                |
-
-## Deploy in pages.dev
-
-1. See YouTube Video:
-
-   [https://www.youtube.com/watch?v=8I-yTNHB0aw](https://www.youtube.com/watch?v=8I-yTNHB0aw)
-
-2. Clone this repository deploy in cloudflare pages.
-
-aHR0cHM6djJyYXlzZS5jb20vcHJveGllcy9kYXRhLzIwMjMtMDctMzAvRnJFS1lvQS50eHQ=` (free clash.meta subscribe config)
 
 ## UUID Setting (Optional)
 
