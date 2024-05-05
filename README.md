@@ -63,12 +63,11 @@ Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them m
 
 ## subscribe Cloudflare bestip(pure ip) link
 
-1. visit `https://edtunnel.pages.dev/bestip/uuid your set` to get subscribe info.
+1. visit `https://zsfan-cloudflare-pages.pages.dev/bestip/uuid your set` to get subscribe info.
 
-2. cpoy subscribe url link `https://edtunnel.pages.dev/bestip/uuid your set` to any clients(clash/v2rayN/v2rayNG) you want to use.
+2. cpoy subscribe url link `https://zsfan-cloudflare-pages.pages.dev/bestip/uuid your set` to any clients(clash/v2rayN/v2rayNG) you want to use.
 
-3. done. if have any questions please join [@edtunnel](https://t.me/edtunnel)
-
+3. done.
 ## multiple port support (Optional)
 
    <!-- let portArray_http = [80, 8080, 8880, 2052, 2086, 2095];
