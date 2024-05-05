@@ -1,3 +1,5 @@
+# 注意⚠️：本项目由ZSFan基于3K的项目开发&原项目地址：https://github.com/3Kmfi6HP/EDtunnel
+
 # Cloudflare Pages
 
 <p align="center">
