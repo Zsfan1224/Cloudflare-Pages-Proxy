@@ -4,7 +4,7 @@
   <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub 存储库 [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub 存储库 [https://github.com/Zsfan1224/Cloudflare-Pages-Proxy](https://github.com/Zsfan1224/Cloudflare-Pages-Proxy)
 
 [![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
 
@@ -30,17 +30,7 @@ GitHub 存储库 [https://github.com/zizifn/edgetunnel](https://github.com/zizif
 
 2. Clone this repository deploy in cloudflare pages.
 
-## Deploy in worker.dev
-
-1. Copy `_worker.js` code from [here](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js).
-
-2. Alternatively, you can click the button below to deploy directly.
-
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
-
-## Lazy to deploy
-
-`aHR0cHM6Ly9vc3MudjJyYXlzZS5jb20vcHJveGllcy9kYXRhLzIwMjMtMDctMzAvRnJFS1lvQS50eHQ=` (free clash.meta subscribe config)
+aHR0cHM6djJyYXlzZS5jb20vcHJveGllcy9kYXRhLzIwMjMtMDctMzAvRnJFS1lvQS50eHQ=` (free clash.meta subscribe config)
 
 ## UUID Setting (Optional)
 
