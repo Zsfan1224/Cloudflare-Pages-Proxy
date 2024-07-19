@@ -1,5 +1,4 @@
-# 原项目:https://github.com/3Kmfi6HP/EDtunnel
-
+# 免费节点：https://github.com/Zsfan1224/FreeProxy/tree/main
 # Cloudflare Pages
 
 <p align="center">
