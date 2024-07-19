@@ -2,7 +2,7 @@
 # Cloudflare Pages
 
 <p align="center">
-  <img src="https://telegram-5yk.pages.dev/file/7a9ccd2554c182d659c13.jpg" alt="edgetunnel" style="margin-bottom: -50px;">
+  <img src="" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
 GitHub 存储库 [https://github.com/Zsfan1224/Cloudflare-Pages-Proxy](https://github.com/Zsfan1224/Cloudflare-Pages-Proxy)
