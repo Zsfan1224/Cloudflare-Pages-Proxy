@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
  
-let Pswd = "ZSFan";
+let Pswd = "只有风知道～";
 const proxyIPs = ["cdn-all.xn--b6gac.eu.org"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
 let cn_hostnames = [''];
 let CDNIP = '1224.us.kg'
