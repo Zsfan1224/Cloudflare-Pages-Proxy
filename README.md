@@ -1,5 +1,4 @@
-# 免费节点：https://github.com/Zsfan1224/FreeProxy
-# Cloudflare Pages
+# 使用Cloudflare Pages部署
 
 <p align="center">
   <img src="https://img.zsfan.us.kg/file/3bb4502c6a185e2937f2a.jpg" alt="edgetunnel" style="margin-bottom: -50px;">
